@@ -1,20 +1,20 @@
 # Event name
-name: ExampleEvent 2020
+name: Smart India Hackathon 2024 @ KITSW
 
 # Event date, in free-text format
-date: February 30-31
+date: August 31, 2024
 
 # Event location
-location: Building 01, Example University
+location: KITS Warangal, Warangal, Telangana, India
 
 # Event description; short is for e.g. Facebook shared links, long appears on the home page.
-description_short: Student-run hackathon at EPFL, Switzerland
+description_short: Smart India Hackathon 2024 @ KITSW
 description_long: |-
-  This is an example event for this template!
+  Inspire, Innovate and Invent at Smart India Hackathon 2024 at KITS Warangal!
 
-  It's there to show off the capabilities of the template.
+  A place to showcase your critical thinking and innovative ideas!
 
-  No coding needed, just change the data!
+
 
 # Contact email. Use a bot-defeating format, otherwise you'll get spammed.
 email: info at example dot org
@@ -24,7 +24,7 @@ facebook: ???
 twitter: ???
 
 # Accent color of the website
-color: '#6497b1'
+color: '#f5b642'
 
 # Font used by the website.
 # To use a custom font, see the ReadMe file.
@@ -33,5 +33,5 @@ font: Courier, monospace
 
 # Links to past editions
 past_editions:
-  2010: http://2010.example.org
-  2000: http://2000.example.org
+  Problem Statements: https://www.sih.gov.in/sih2024PS
+  
