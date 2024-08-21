@@ -11,7 +11,8 @@ tiers:
     show_title: true
     size: 30
     sponsors:
-      Example University: http://example.org
+      IIC: http://example.org
+
 
   Gold Sponsors:
     show_title: true

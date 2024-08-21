@@ -2,7 +2,7 @@
 group:
   name: Department of Information Technology
   # Either use 'link' for an external page (e.g. if you already have a website), ...
-  link:
+  link: 
   # ...or use the built-in /legal page and provide links to the statutes and general assembly minutes
   statutes: http://example.com
   assemblies:
