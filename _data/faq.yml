@@ -5,10 +5,9 @@
 # - Use the weird |- syntax to allow answers to span lines.
 # - End lines with two spaces if you want to force a line break, otherwise the line break is ignored.
 
-- q: What is this?
+- q: What is SIH 2024?
   a: |- 
-        An example website for this template.  
-        Isn't it awesome?
+        SIH stands for Smart India Hackathon which is a national level hackathon which is being conducted in our college by I2RE and IIC in Association with Department of Information Technology
 
 - q: Can I use it?
   a: |-
