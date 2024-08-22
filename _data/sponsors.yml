@@ -15,17 +15,4 @@ tiers:
       I2RE: https://kitsw.ac.in/i2re/
 
 
-  Gold Sponsors:
-    show_title: true
-    color: rgba(212,175,55,0.12)
-    size: 42
-    sponsors:
-      Gold Example One: http://example.org
-      Gold Example Two: http://example.org
-
-  Silver Sponsors:
-    show_title: true
-    color: rgba(192,192,192,0.18)
-    size: 32
-    sponsors:
-      Silver Example One: http://example.org
+  
