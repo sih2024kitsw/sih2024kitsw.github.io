@@ -63,8 +63,10 @@ layout: default
     <p>
       <ul style="text-align: left;
     list-style-position: inside;">
-      <li>Assemble your team <br><br></li> <li>Select a problem statement from the <a href="https://www.sih.gov.in/sih2024PS">SIH Website<a/><li></li><br><br>
-      Download the <a href="https://sih2024kitsw.github.io/pdf/Registration_form_SIH2024.pdf">Hardcopy of the Registration Form</a>, fill the form with relevant details and pay the registration fee of Rs.300 to Registration Committee<br><br>
+      <li>Assemble your team <br><br></li> 
+      <li>Select a problem statement from the <a href="https://www.sih.gov.in/sih2024PS">SIH Website<a/></li><br><br>
+      <li>Download the <a href="https://sih2024kitsw.github.io/pdf/Registration_form_SIH2024.pdf">Hardcopy of the Registration Form</a></li><br><br>
+      <li>Fill the form with relevant details and pay the registration fee of Rs.300 to Registration Committee</li><br><br>
       Fill the <a href="https://forms.gle/AkGAuFz7X8n4e1Fm9">Google Form</a> with the relevant details as written in the hard copy and provide proof of payment<br><br>
       Submit the hardcopy to the Registration Committee 
       </ul>
@@ -187,6 +189,24 @@ layout: default
   <h1>Committee</h1>
   <div class="items-container">
     {% for person in site.data.organizers.people %}
+      <div class="item-small">
+        <a class="person-link"
+           href="{{ person.link }}"
+           rel="noreferrer">
+            <div class="person-container">
+              <img class="person-image"
+                   src="images/people/{{ person.first }} {{ person.last }}.jpg"
+                   alt="Picture of {{ person.first }} {{ person.last }}">
+              <div class="person-info">
+                <span class="person-first">{{ person.first }}</span>
+                <br>
+                <span class="person-last">{{ person.last }}</span>
+              </div>
+            </div>
+          </a>
+        </div>
+      {% endfor %}
+      {% for person in site.data.organizers.people %}
       <div class="item-small">
         <a class="person-link"
            href="{{ person.link }}"
