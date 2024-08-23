@@ -7,12 +7,13 @@ show_prospectus: true
 # Each sponsor has a link to its website.
 # See the ReadMe file for information about logos.
 tiers:
-  Partners:
+  Organisers:
     show_title: true
     size: 30
     sponsors:
       IIC: https://iic.mic.gov.in/
       I2RE: https://kitsw.ac.in/i2re/
+      ITDEPT: https://kitsw.ac.in/departments/IT/home.html
 
 
   
