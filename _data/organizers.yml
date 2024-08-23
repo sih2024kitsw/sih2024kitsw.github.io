@@ -11,7 +11,24 @@ group:
 
 # People organizing the event, and their websites.
 # See the ReadMe file for information on pictures.
-people:
+faculty:
+  - first: Alice
+    last: Example
+    link: http://example.org
+  
+  - first: Bob
+    last: Example
+    link: http://example.org
+
+  - first: Carol
+    last: Example
+    link: http://example.org
+
+  - first: Daniel
+    last: Example
+    link: http://example.org
+
+maincoords:
   - first: Alice
     last: Example
     link: http://example.org
