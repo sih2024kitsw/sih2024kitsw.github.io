@@ -16,17 +16,21 @@ faculty:
     last: Rampalli
     link: https://kitsw.ac.in
   
-  - first: Bob
-    last: Example
-    link: http://example.org
+  - first: Dr.T.Senthil
+    last: Murugan
+    link: https://kitsw.ac.in
 
-  - first: Carol
-    last: Example
-    link: http://example.org
+  - first: Dr.P.Vijay
+    last: Kumar
+    link: http://kitsw.ac.in
 
-  - first: Daniel
-    last: Example
-    link: http://example.org
+  - first: Dr.K.RajaNarender
+    last: Reddy
+    link: http://kitsw.ac.in
+
+  - first: Dr.K.Ashoka
+    last: Reddy
+    link: https://kitsw.ac.in
 
 maincoords:
   - first: Alice
