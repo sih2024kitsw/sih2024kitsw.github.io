@@ -206,8 +206,14 @@ layout: default
           </a>
         </div>
       {% endfor %}
-      <h1>Organisers</h1><br>
-      {% for person in site.data.organizers.people %}
+    </div>
+  </div>
+</section>
+
+<section class="tone-dark">
+  <h1>Organisers</h1>
+  <div class="items-container">
+    {% for person in site.data.organizers.people %}
       <div class="item-small">
         <a class="person-link"
            href="{{ person.link }}"
@@ -227,12 +233,14 @@ layout: default
       {% endfor %}
     </div>
   </div>
-  {% if site.data.organizers.group %}
-    <p>
-      {{ site.data.info.name }} is organized by {{ site.data.organizers.group.name }}
-    </p>
-  {% endif %}
-  <p>
-    Website Designed by Aryan Karamtoth of Department of Information Technology, KITSW</a>.
-  </p>
 </section>
+
+{% if site.data.organizers.group %}
+  <p>
+    {{ site.data.info.name }} is organized by {{ site.data.organizers.group.name }}
+  </p>
+{% endif %}
+
+<p>
+  Website Designed by Aryan Karamtoth of Department of Information Technology, KITSW</a>.
+</p>
