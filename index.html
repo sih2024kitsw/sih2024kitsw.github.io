@@ -243,6 +243,31 @@ layout: default
   </div>
 </section>
 
+<section class="tone-dark">
+  <h1>Supporting Organisers</h1>
+  <div class="items-container">
+    {% for person in site.data.organizers.suppcoords %}
+      <div class="item-small">
+        <a class="person-link"
+           href="{{ person.link }}"
+           rel="noreferrer">
+            <div class="person-container">
+              <img class="person-image"
+                   src="images/people/{{ person.first }} {{ person.last }}.jpg"
+                   alt="Picture of {{ person.first }} {{ person.last }}">
+              <div class="person-info">
+                <span class="person-first">{{ person.first }}</span>
+                <br>
+                <span class="person-last">{{ person.last }}</span>
+              </div>
+            </div>
+          </a>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
 {% if site.data.organizers.group %}
   <p>
     {{ site.data.info.name }} is organized by {{ site.data.organizers.group.name }}
