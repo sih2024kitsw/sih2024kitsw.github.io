@@ -40,6 +40,14 @@ maincoords:
   - first: R.Hanudeep #b21it001
     last: Reddy
     link: http://kitsw.ac.in
+
+  - first: Anirudh #b21it044
+    last: Atikam
+    link: http://kitsw.ac.in  
+
+  - first: Bhavishya #b21it054
+    last: K
+    link: http://kitsw.ac.in
  #third years go here
   - first: Samhitha #b22it071
     last: Nagabandi
@@ -77,6 +85,18 @@ suppcords:
   - first: Aryan #b23it117
     last: Karamtoth
     link: http://kitsw.ac.in
+
+  - first: Sai.Akshay #b23it077
+    last: Katakam
+    link: http://kitsw.ac.in   
+
+  - first: Divya.Sai.Charan #b23it091
+    last: Guduri
+    link: http://kitsw.ac.in   
+
+  - first: Nishta #b23it026
+    last: Reddy
+    link: http://kitsw.ac.in  
 
   - first: Varshith #b23it054
     last: Perugu
