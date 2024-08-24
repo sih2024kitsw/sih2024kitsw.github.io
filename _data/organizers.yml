@@ -35,19 +35,19 @@ faculty:
 maincoords:
   - first: Kasturi #b21it007
     last: HarshaVardhan
-    link: http://example.org
+    link: http://kitsw.ac.in
   
-  - first: Bob
-    last: Example
-    link: http://example.org
+  - first: R.Hanudeep #b21it001
+    last: Reddy
+    link: http://kitsw.ac.in
+ #third years go here
+  - first: Samhitha #b22it071
+    last: Nagabandi
+    link: http://kitsw.ac.in
 
-  - first: Carol
-    last: Example
-    link: http://example.org
-
-  - first: Daniel
-    last: Example
-    link: http://example.org
+  - first: Akhila #b22it104
+    last: Pulumati
+    link: http://kitsw.ac.in
 
 suppcords:
   - first: Billa #b22it054
@@ -70,13 +70,19 @@ suppcords:
     last: Karamtoth
     link: http://kitsw.ac.in
 
-  - first: Thota #b22it021
-    last: Karthik
+  - first: Varshith #b23it054
+    last: Perugu
     link: http://kitsw.ac.in
 
-  - first: Thota #b22it021
-    last: Karthik
+  - first: B.Vaishnavi #b23it036
+    last: Reddy
     link: http://kitsw.ac.in
+
+  - first: K.Suhaas #b23it029
+    last: Vikram
+    link: http://kitsw.ac.in
+
+
 
 
 
