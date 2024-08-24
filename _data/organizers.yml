@@ -33,7 +33,7 @@ faculty:
     link: https://kitsw.ac.in
 
 maincoords:
-  - first: Kasturi
+  - first: Kasturi #b21it007
     last: HarshaVardhan
     link: http://example.org
   
@@ -50,18 +50,33 @@ maincoords:
     link: http://example.org
 
 suppcords:
-  - first: Kasturi
-    last: HarshaVardhan
-    link: http://example.org
+  - first: Billa #b22it054
+    last: Sahithi
+    link: https://kitsw.ac.in
   
-  - first: Bob
-    last: Example
-    link: http://example.org
+  - first: Mercy #b23it008
+    last: Sharon
+    link: http://kitsw.ac.in
 
-  - first: Carol
-    last: Example
-    link: http://example.org
+  - first: Shadan #b22it011
+    last: Muheen
+    link: http://kitsw.ac.in
 
-  - first: Daniel
-    last: Example
-    link: http://example.org
+  - first: Thota #b22it021
+    last: Karthik
+    link: http://kitsw.ac.in
+    #second years go here
+  - first: Aryan #b23it117
+    last: Karamtoth
+    link: http://kitsw.ac.in
+
+  - first: Thota #b22it021
+    last: Karthik
+    link: http://kitsw.ac.in
+
+  - first: Thota #b22it021
+    last: Karthik
+    link: http://kitsw.ac.in
+
+
+
