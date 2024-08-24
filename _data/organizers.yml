@@ -43,12 +43,20 @@ maincoords:
 
   - first: Anirudh #b21it044
     last: Atikam
-    link: http://kitsw.ac.in  
+    link: http://kitsw.ac.in
+
+  - first: Ridhima #b21it008
+    last: Sriramoju
+    link: http://kitsw.ac.in    
 
   - first: Bhavishya #b21it054
     last: K
     link: http://kitsw.ac.in
- #third years go here
+  
+  - first: Gayatri.Sharma #b21it110
+    last: Palepu
+    link: http://kitsw.ac.in
+#third years go here
   - first: Samhitha #b22it071
     last: Nagabandi
     link: http://kitsw.ac.in
@@ -81,6 +89,14 @@ suppcords:
   - first: Thota #b22it021
     last: Karthik
     link: http://kitsw.ac.in
+
+  - first: Ashritha #b22it078
+    last: Madhamshetty
+    link: http://kitsw.ac.in
+
+  - first: Abhinaya #b22it082
+    last: Potu
+    link: http://kitsw.ac.in  
     #second years go here
   - first: Aryan #b23it117
     last: Karamtoth
@@ -88,7 +104,11 @@ suppcords:
 
   - first: Sai.Akshay #b23it077
     last: Katakam
-    link: http://kitsw.ac.in   
+    link: http://kitsw.ac.in
+
+  - first: Mohd.Abdul #b23it089
+    last: Gafoor
+    link: http://kitsw.ac.in     
 
   - first: Divya.Sai.Charan #b23it091
     last: Guduri
@@ -96,7 +116,7 @@ suppcords:
 
   - first: Nishta #b23it026
     last: Reddy
-    link: http://kitsw.ac.in  
+    link: http://kitsw.ac.in   
 
   - first: Varshith #b23it054
     last: Perugu
